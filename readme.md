@@ -1,4 +1,5 @@
-##This is a readme to show demo of nginx
+##This is a readme to show demo of nginx. 
+# Implement below in shell script
 
 sudo apt-get install
 sudo apt install nginx
